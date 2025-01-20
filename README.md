@@ -1,11 +1,12 @@
 Air Quality dataset ✨
 
 Setup environment :
-conda create --name main-ds python=3.9
+1. conda 
+create --name main-ds python=3.9
 conda activate main-ds
 pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 
-Run steamlit app :
+2. Run steamlit app :
 streamlit run dashboard.py
 
 ### Comprehensive Concept for Air Quality Analysis in Beijing Using Dicoding's Dataset
